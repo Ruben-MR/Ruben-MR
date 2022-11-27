@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tubén Martín
+- 👋 Hi, I’m Rubén Martín
 - 👀 I’m interested in Robotics and Human-Robot Interaction technologies
 - 📫 How to reach me: via rubenmartinrod289@gmail.com
 
